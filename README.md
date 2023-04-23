@@ -1,5 +1,7 @@
 # Cyclistic Bike-Share Data Analysis
 
+![](banner.png)
+
 ## Introduction
 Bike-sharing programs have gained significant popularity in recent years due to their potential to offer an affordable, environmentally-friendly, and convenient transportation option for urban commuters. However, with this rapid growth comes the challenge of navigating speedy success and ensuring sustainable growth.
 
