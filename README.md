@@ -33,6 +33,11 @@ Analyze historical trips data from the past 12 months to identify trends and dis
 
 
 ## Skills Demonstrated
+The following R features were incorporated:
+- Data Wrangling
+- Statistical Analysis
+- Visualization
+- Report Generation
 
 ## Data Sourcing
 [Source of Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
@@ -46,6 +51,7 @@ The data is reliable since it is being provided by Motivate Internation Inc. for
 CSV files with trip data collected from April 01, 2019 to March 31, 2020 provided by Motivate Internation Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).
 
 ## Data Transformation
+
 
 ## Modeling
 
