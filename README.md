@@ -64,5 +64,8 @@ Some of the applied steps included:
 In general, with a single-table design, I was considering the main benefit of the performance improvement by making a single request to retrive all needed items, and better suited to work in R and use descriptive analysis tools to infer insights.
 
 ## Analysis and Visualizations
+![](average_duration.png)
+
+![](number_of_rides.png)
  
 ## Conclusions & Recommendations
