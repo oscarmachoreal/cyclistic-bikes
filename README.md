@@ -50,10 +50,18 @@ The data is reliable since it is being provided by Motivate Internation Inc. for
 
 CSV files with trip data collected from April 01, 2019 to March 31, 2020 provided by Motivate Internation Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).
 
-## Data Transformation
+## Data Transformation/Cleaning:
+Data was efficiently cleaned and transformed using the *tydiverse* and *lubridate* packages in R.
+Some of the applied steps included:
 
+- Stack individual dataframes into one big data fram
+- Remove latitude and longitude related variables
+- Add columns that list the date, month, day and year of each ride
+- Add a 'ride_length' calculation in seconds and convert from factor to numeric
+- Remove data on bikes quality check rides done by HQ
 
 ## Modeling
+In general, with a single-table design, I was considering the main benefit of the performance improvement by making a single request to retrive all needed items, and better suited to work in R and use statistical analysis tools to infer key business tasks.
 
 ## Analysis and Visualizations
  
