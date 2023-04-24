@@ -35,6 +35,8 @@ Analyze historical trips data from the past 12 months to identify trends and dis
 ## Skills Demonstrated
 
 ## Data Sourcing
+[Source of Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
 This is public data that you can use to explore how different customer types are using Cyclistic bikes. 
 
 Note that data-privacy issues prohibit us from using riders’ personally identifiable information. This means that we won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
@@ -42,8 +44,6 @@ Note that data-privacy issues prohibit us from using riders’ personally identi
 The data is reliable since it is being provided by Motivate Internation Inc. for this analysis. Also, the given dataset is original and comprehensive.
 
 CSV files with trip data collected from April 01, 2019 to March 31, 2020 provided by Motivate Internation Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).
-
-[Source of data](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 ## Data Transformation
 
