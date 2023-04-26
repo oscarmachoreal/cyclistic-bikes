@@ -69,3 +69,12 @@ In general, with a single-table design, I was considering the main benefit of th
 ![](number_of_rides.png)
  
 ## Conclusions & Recommendations
+The average ride time of casual members is significantly higher than the average ride time of regular members. Additionally, the number of rides on weekends by casual members is equal to the number of rides of regular members. Given that the company's objective is to grow the number of regular members, I have some recommendations.
+
+Firstly, it's important to understand the differences in behavior between casual and regular members. Casual members tend to use the service for longer periods, while regular members are more likely to use it for shorter, more frequent trips. Therefore, the company could consider offering incentives or promotions that encourage regular members to take longer rides, such as discounts for longer trips.
+
+Secondly, since the number of rides on weekends by casual members is equal to the number of rides of regular members, the company could target casual members on weekends with promotions that incentivize them to become regular members. For example, the company could offer a weekend-only promotion that rewards casual members with a free month of membership if they use the service a certain number of times on weekends.
+
+Thirdly, the company could use data analysis to identify common trip patterns among regular members and use this information to create targeted marketing campaigns that encourage casual members to become regular members. For example, if data analysis shows that regular members tend to use the service for commuting to work or school, the company could create a campaign that targets casual members who live or work in areas with a high concentration of regular members.
+
+Overall, it's important for the bike-sharing company to understand the behavior and needs of its customers in order to create targeted campaigns that encourage casual members to become regular members. By offering incentives for longer rides, targeting casual members on weekends, and creating targeted marketing campaigns, the company can increase the number of regular members and improve its overall revenue.
