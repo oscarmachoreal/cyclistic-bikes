@@ -61,7 +61,9 @@ Some of the applied steps included:
 - Remove data on bikes quality check rides done by HQ
 
 ## Modeling
-I have decided to use a single dataframe rather than a normalized model. This decision was based on the fact that a single dataframe can provide a more comprehensive view of the data, as all the relevant information is contained in one table. With a single dataframe, I can easily manipulate and analyze the data using a variety of tools and techniques, such as filtering, grouping, and aggregating. Additionally, using a single dataframe allows me to more easily identify and correct any data quality issues that may arise, as I can quickly locate and fix any errors within the same table. While a star schema may provide some benefits in terms of data organization and query performance, for this particular analysis, I believe that a single dataframe is the most appropriate and efficient approach.
+I have decided to use a single dataframe rather than a normalized model. This decision was based on the fact that a single dataframe can provide a more comprehensive view of the data, as all the relevant information is contained in one table. With a single dataframe, I can easily manipulate and analyze the data using a variety of tools and techniques, such as filtering, grouping, and aggregating. 
+
+Additionally, using a single dataframe allows me to more easily identify and correct any data quality issues that may arise, as I can quickly locate and fix any errors within the same table. While a star schema may provide some benefits in terms of data organization and query performance, for this particular analysis, I believe that a single dataframe is the most appropriate and efficient approach.
 
 ## Analysis and Visualizations
 ![](average_duration.png)
