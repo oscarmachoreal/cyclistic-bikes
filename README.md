@@ -51,10 +51,10 @@ The data is reliable since it is being provided by Motivate Internation Inc. for
 CSV files with trip data collected from April 01, 2019 to March 31, 2020 provided by Motivate Internation Inc. under this [license](https://ride.divvybikes.com/data-license-agreement).
 
 ## Data Transformation/Cleaning:
-Data was efficiently cleaned and transformed using the *tydiverse* and *lubridate* packages in R.
+Data was efficiently cleaned and transformed using the **tydiverse** and **lubridate** packages in R.
 Some of the applied steps included:
 
-- Stack individual dataframes into one big data fram
+- Stack individual dataframes into one big data frame
 - Remove latitude and longitude related variables
 - Add columns that list the date, month, day and year of each ride
 - Add a 'ride_length' calculation in seconds and convert from factor to numeric
