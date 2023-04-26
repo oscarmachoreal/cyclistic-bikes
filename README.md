@@ -58,7 +58,7 @@ Some of the applied steps included:
 - Remove latitude and longitude related variables
 - Add columns that list the date, month, day and year of each ride
 - Add a 'ride_length' calculation in seconds and convert from factor to numeric
-- Remove data on bikes quality check rides done by HQ
+- Remove data on bikes quality check rides done by Cyclistic HQ
 
 ## Modeling
 I have decided to use a single dataframe rather than a normalized model. This decision was based on the fact that a single dataframe can provide a more comprehensive view of the data, as all the relevant information is contained in one table. With a single dataframe, I can easily manipulate and analyze the data using a variety of tools and techniques, such as filtering, grouping, and aggregating. 
